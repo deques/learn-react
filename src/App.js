@@ -1,6 +1,6 @@
 import "./App.css";
 import Movies from "./components/Movies";
-import Crypto from "./components/Movies";
+import "./style/style.css";
 function App() {
   return <Movies />;
   /*const [toDo, setToDo] = useState("");
