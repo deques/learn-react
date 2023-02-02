@@ -1,7 +1,8 @@
 import "./App.css";
-import Crypto from "./components/Crypto";
+import Movies from "./components/Movies";
+import Crypto from "./components/Movies";
 function App() {
-  return <Crypto />;
+  return <Movies />;
   /*const [toDo, setToDo] = useState("");
   const [toDos, setToDos] = useState([]);
   const onChange = (event) => setToDo(event.target.value);
